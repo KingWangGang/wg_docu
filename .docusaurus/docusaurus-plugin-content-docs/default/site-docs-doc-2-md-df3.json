@@ -1,0 +1,20 @@
+{
+  "unversionedId": "doc2",
+  "id": "doc2",
+  "title": "doc2",
+  "description": "",
+  "source": "@site/docs/doc2.md",
+  "sourceDirName": ".",
+  "slug": "/doc2",
+  "permalink": "/docs/doc2",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/doc2.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {},
+  "sidebar": "mySidebar",
+  "previous": {
+    "title": "doc1",
+    "permalink": "/docs/doc1"
+  }
+}

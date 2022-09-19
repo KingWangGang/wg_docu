@@ -1,0 +1,20 @@
+{
+  "title": "Docusaurus Guides",
+  "description": "Learn about the most important Docusaurus concepts!",
+  "image": "docusaurus.png",
+  "keywords": [
+    "guides"
+  ],
+  "slug": "helloMarkdown",
+  "permalink": "/docs/helloMarkdown",
+  "navigation": {
+    "previous": {
+      "title": "son_guide",
+      "permalink": "/docs/guide/son_folder/son_guide"
+    },
+    "next": {
+      "title": "greeting",
+      "permalink": "/docs/greeting"
+    }
+  }
+}

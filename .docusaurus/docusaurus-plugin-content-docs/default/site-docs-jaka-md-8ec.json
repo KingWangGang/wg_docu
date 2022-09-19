@@ -1,0 +1,18 @@
+{
+  "unversionedId": "JAKA",
+  "id": "JAKA",
+  "title": "JAKA编程脚本",
+  "description": "&emsp;&emsp;JAKA编程脚本是控制节卡机器人的专用编程语言(DSL)。用户可以根据JAKA 编程脚本所规定的语法进行编程以达到控制机器人的目的。",
+  "source": "@site/docs/JAKA.md",
+  "sourceDirName": ".",
+  "slug": "/JAKA",
+  "permalink": "/docs/JAKA",
+  "draft": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/JAKA.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "title": "JAKA编程脚本"
+  },
+  "sidebar": "docs"
+}

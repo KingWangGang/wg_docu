@@ -1,0 +1,12 @@
+{
+  "type": "mdx",
+  "permalink": "/markdown-page",
+  "source": "@site/src/pages/markdown-page.md",
+  "title": "我的问候页面标题",
+  "description": "我的问候页面描述",
+  "frontMatter": {
+    "title": "我的问候页面标题",
+    "description": "我的问候页面描述",
+    "hide_table_of_contents": true
+  }
+}
